@@ -18,3 +18,5 @@ Perhaps the higher share of Ukrainian loss of IMVs points to their usage of asym
 ## NASA FIRMS VIIRS I-Band 375m maps
 
 ![](./maps/KyivBattle.gif)
+
+![](./plots/DailyBrightnessByRegion.png)
